@@ -9,4 +9,9 @@ url: https://gothiclolita229.github.io/linaresl1836.github.io/
 lang: en
 last_updated: true
 
+# Menu 
+
+navigation:
+  - {file: "index.html", title: Home}
+  - {file: "README.md", title: About}
 
