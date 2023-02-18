@@ -1,24 +1,25 @@
-#### linaresl1836.github.io
-GitHub Pages site
+#### Kalie Kirsch, Marceia Patterson, Viana Butler, Ciara McLaughlin, Lourdes Linares
+
+# Our Capstone Project
 
 
-Here are a list of projects I'm working on:
+This project will be helpful for:
 <ul>
   
-  <li><strong><a href="https://github.com/GothicLolita229/Story-Co-Writing">Website Project</a> - a website where you can co-write stories with amateur authors</strong></li>
+  <li><strong>Neurospicy minds</strong> - an application that can take some of that decision fatigue off your mind</li>
 
-  <li><a href="https://github.com/GothicLolita229/CTS285-Dataman">Dataman Project</a>- a remake of the 80s math game</li>
+  <li><strong>Personlized plans</strong> - You can choose what type of planning you'd like this to do, whether it be storing your favorite restaurants and then choosing one or randomly helping you decide on a recipe for dinner</li>
   
-  <li><a href="https://github.com/GothicLolita229/CSC-253-Mortuus" target="_blank">Mortuus project</a> - a simple text adventure game</li>
+  <li><strong>Experience New Adventures</strong> - if you're stuck in a rut and you don't have the brain space to decide on activities to kill that boredom, this app is for you</li>
 
 </ul>
 
 ## Useful Links
 
-- A list of [Jekyll themes](https://pages.github.com/themes/)
-- [GitHub Pages Quickstart](https://pages.github.com)
-- [Dev Blog](https://linaresl1836.github.io/dev-blog)
-- [GitHub Pages Styling Tips](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code)
+
+- [Capstone Project Link](https://pages.github.com)
+- [Suggestions Box](https://linaresl1836.github.io/dev-blog) 
+
 - This Website's URL: https://gothiclolita229.github.io/linaresl1836.github.io/
 
 ## Description
